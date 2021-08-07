@@ -9,3 +9,11 @@ The following 3 boxes represent BGR (color) values. (note: values from 0-255 mus
 When the enter button in the GUI is clicked an altered version of your input image is returned.
 Press any key to close that image.
 Code terminates when GUI window is closed.
+
+Example:
+Box1: https://artprojectsforkids.org/wp-content/uploads/2020/05/Penguin-791x1024.jpg
+Box2: 255
+Box3: 255
+Box4: 255
+Click: "Enter"
+These inputs take the given image of a penguin and convert the black pixels to white
